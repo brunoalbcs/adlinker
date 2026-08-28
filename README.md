@@ -3,6 +3,15 @@
 Um encurtador de links de alta performance construído com **Python** e **FastAPI**. 
 O projeto foi desenvolvido utilizando a **Arquitetura em Camadas** (N-Tier Architecture), separando responsabilidades para garantir um código limpo, escalável e de fácil manutenção.
 
+---
+
+## 🌐 Teste Online
+A API está hospedada na nuvem e pronta para testes:
+* **Acesse a Documentação (Swagger UI):** [https://adlinker-api.onrender.com/docs](https://adlinker-api.onrender.com/docs)
+
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 *   **FastAPI:** Framework web moderno e rápido para construção da API.
